@@ -28,3 +28,5 @@ Real-time pulse signal acquisition using IoT devices.
 Integration of deep learning models (CNNs/RNNs) for improved accuracy.
 Mobile application for user-friendly health reports.
 Personalized health recommendations based on dosha profile.
+
+The dataset used for this project is a custom dataset of pulse signals. Due to privacy and size considerations, only a sample is provided in the repository. The full dataset follows the same structure and can be generated.
