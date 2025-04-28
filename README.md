@@ -30,3 +30,32 @@ Mobile application for user-friendly health reports.
 Personalized health recommendations based on dosha profile.
 
 The dataset used for this project is a custom dataset of pulse signals. Due to privacy and size considerations, only a sample is provided in the repository. The full dataset follows the same structure and can be generated.
+
+**Inputs:**
+Users will enter the following physiological data for analysis:
+Age (years)
+Weight (kg)
+Height (cm)
+Blood Pressure (mmHg)
+Temperature (°C)
+Pulse Rate (beats per minute)
+
+**Dosha Predictions:**
+Based on the input data, the system predicts one or more of the following doshas or their combinations:
+Vata: Often associated with light, dry, cold, and irregular qualities. Indicators may include a high pulse rate, low blood pressure, and low body temperature.
+Pitta: Known for hot, sharp, and intense qualities. Indicators include high body temperature, high blood pressure, and moderate pulse rate.
+Kapha: Linked to cool, moist, and heavy qualities. Indicators include low pulse rate, normal temperature, and higher weight.
+Combination Doshas:
+  Vata-Pitta: A mix of dry, cold, and hot qualities. Common in individuals who experience both nervous energy and intense emotional responses.
+  Pitta-Kapha: A blend of sharp, intense qualities with cool, stable energy. May show characteristics of both fiery and heavy tendencies.
+  Vata-Kapha: A combination of irregular, dry qualities with heavy, slow characteristics. Often seen in people who are anxious yet physically sluggish.
+
+**Recommendations:**
+The system provides customized recommendations depending on the predicted dosha(s), such as:
+Vata Dosha: Grounding foods, warm environments, and stress-reducing activities.
+Pitta Dosha: Cooling foods, relaxing practices, and stress management techniques.
+Kapha Dosha: Energizing foods, regular physical activity, and mental stimulation.
+Combination Doshas: Tailored advice to balance both doshas in the combination, promoting harmony through lifestyle adjustments and mindfulness practices.
+
+**Yoga Pose Suggestions:**
+For each dosha or combination of doshas, the system recommends a yoga pose designed to balance the individual’s energy:
